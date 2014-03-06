@@ -1,0 +1,16 @@
+//Windows
+rurl=not set-|-|os=Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Firefox/24.0-|-|ct1=1381456273688-|-|sr=h1080!l1920-|-|url=http://www.ceair.com/?utm_source=Google&utm_medium=cpc&utm_term=%E4%B8%9C%E6%96%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8&gclid=CO-s5I3klboCFRF34godsRUASQ-|-|bt=firefox/24.0-|-|ip=211.23.45.67-|-|ct2=1381456280059
+rurl=not set-|-|os=Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; Win64; x64; Trident/4.0; .NET CLR 2.0.50727; SLCC2; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E)-|-|ct1=1381473733671-|-|sr=h1080!l1920-|-|url=http://localhost:8080/ClickStream/no1.html-|-|bt=msie 8.0;-|-|ip=21.23.45.67-|-|ct2=1381473737961
+rurl=http://localhost:8080/ClickStream/no0.html-|-|os=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.69 Safari/537.36-|-|ct1=1381474503798-|-|sr=h1080!l1920-|-|url=http://localhost:8080/ClickStream/no1.html-|-|bt=chrome/30.0.1599.69-|-|ip=11.23.45.67-|-|ct2=1381474511539
+//Android
+rurl=not set-|-|os=Mozilla/5.0 (Linux; U; Android 4.3; zh-cn; Galaxy Nexus Build/JWR66Y) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30-|-|ct1=1381894228145-|-|sr=h1280!l720-|-|url=http://172.16.1.253:8080/ClickStream/no1.html-|-|bt=safari/534.30-|-|ip=172.16.1.58-|-|ct2=1381894315598
+//Linux
+rurl=not set-|-|os=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:24.0) Gecko/20100101 Firefox/24.0-|-|ct1=1381894340240-|-|sr=h800!l1280-|-|url=http://172.16.1.253:8080/ClickStream/no1.html-|-|bt=firefox/24.0-|-|ip=172.16.1.59-|-|ct2=1381894346055
+//ios
+rurl=not set-|-|os=Mozilla/5.0 (iPhone; CPU iPhone OS 7_0_2 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) CriOS/30.0.1599.12 Mobile/11A501 Safari/8536.25 (592FAFCA-86F-4827-9091-86E345158E72)-|-|ct1=1382001054675-|-|sr=h568!l320-|-|url=http://172.16.1.253:8080/ClickStream/no1.html-|-|bt=safari/8536.25-|-|ip=172.16.1.77-|-|ct2=1382001100433
+<script type="text/javascript" charset="UTF-8">
+function getPlatform(){
+alert(navigator.platform);
+}
+</script>
+<input type="button" value="获取platform" onClick="getPlatform()">
